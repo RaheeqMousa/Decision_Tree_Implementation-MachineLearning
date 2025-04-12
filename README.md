@@ -1,6 +1,6 @@
-## Decision-Tree
+# Decision-Tree
 
-# Features:
+## Features:
 **Pure Java implementation (no external libraries).**
 
 **Simple and easy-to-follow codebase, ideal for educational purposes.**
@@ -11,7 +11,7 @@
   **Use object-oriented design for data representation and tree structure.**
 
 
-# Project Structure:
+## Project Structure:
 **DecisionTree.java**
 Contains the main logic for building and using the decision tree.
 
